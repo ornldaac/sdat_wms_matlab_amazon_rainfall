@@ -17,7 +17,7 @@ Matlab R2016a or later. Matlab plugin: Mapping toolbox
 
 ## Procedure
 The Matlab live script can't be previewed in GitHub webpage. The tutorial below is in PDF version just for preview purpose. 
-Access the tutorial here:  [Tutorial](sdat_matlab_v1.pdf)
+Access the tutorial here:  [Tutorial pdf](sdat_matlab_v1.pdf)
 
 The R scripts are also accessible and downloadable. These two files are just in different format, but have the same contents. 
 Access the Matlab scripts here: [Matlab Live Script in .mlx](sdat_matlab_v1.mlx), [Matlab script in .m](sdat_matlab_v1.m)
