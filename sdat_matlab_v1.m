@@ -19,7 +19,7 @@
 % map images from one or more distributed geospatial databases. The WMS request 
 % is also available from data downloading page of ORNL DAAC Spatial Data Access 
 % Tool (SDAT). After connecting to ORNL DAAC WMS service, we will find target 
-% layer by searching by keywords. For this example, Amazon river basin percipitation 
+% layer by searching by keywords. For this example, Amazon river basin precipitation 
 % 1972-1992 is used for demonstration. Then we will learn how to get available 
 % metadata of this WMS service layer. At last, we will walkthrough how to send 
 % request to map the data and plot the legend.
